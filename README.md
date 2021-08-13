@@ -20,7 +20,7 @@
 <br />
 
 - 🦙 I will be finishing up Lambda's full-stack course in two weeks
-- ⌨️ I’m currently working on Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a)
+- ⌨️ I’m currently working on the [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a) for Human Rights First 
 - 👨‍💻 I’m looking to land my first devolper position
 - 🥅 2021 Goals: Keep a growth mindset
 - 🥁 Fun fact: I play drums professionally and produce music 
