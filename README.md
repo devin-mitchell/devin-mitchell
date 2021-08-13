@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there, I'm Devin 👋</h1>
 
-<h3 align='center'>I'm a Developer, a student, and a musician!!</h3>
+<h3 align='center'>I'm a Developer, student, and musician!!</h3>
 
 <br />
 
