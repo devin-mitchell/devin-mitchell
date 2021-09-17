@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devin-mitchell&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="devin-mitchell" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devin-mitchell)](https://github.com/devin-mitchell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devin-mitchell&layout=compact)](https://github.com/devin-mitchell/github-readme-stats)
 
 
 <br />
