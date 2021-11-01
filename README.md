@@ -19,11 +19,11 @@
 
 <br />
 
-- 🦙 I just finished Lambda's full-stack course
-- ⌨️ I’m currently working on the [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a) for Human Rights First 
-- 👨‍💻 I’m looking to land my first developer position
+- 🦙 Lambda alumni (web42)
+- ⌨️ I’m currently an engineer for Genesis Block 
+- 👨‍💻 I’m looking to meet more people in the community
 - 🥅 2021 Goals: Keep a growth mindset
-- 🥁 Fun fact: I play drums professionally and produce music 
+- 🥁 Fun fact: I play drums and produce music 
 
 <br />
 
