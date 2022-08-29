@@ -1,6 +1,6 @@
 <h1 align='center'>Howdy, I'm Devin 👋</h1>
 
-<h4 style='font-size: 0px' align='center'>DEVELOPER || STUDENT || MUSICIAN</h4>
+<h4 style='font-size: 0px' align='center'>ENGINEER || MUSICIAN</h4>
 
 <br />
 
@@ -20,9 +20,9 @@
 <br />
 
 - 🦙 Lambda alumni (web42)
-- ⌨️ I’m currently an engineer for Genesis Block 
+- ⌨️ Currently an engineer for Hightop building the bridge from tradfi to defi
 - 👨‍💻 I’m looking to meet more people in the community
-- 🥅 2021 Goals: Keep a growth mindset
+- 🥅 2022 Goals: maintain a side project, read more, get outside when I'm not working
 - 🥁 Fun fact: I play drums and produce music 
 
 <br />
