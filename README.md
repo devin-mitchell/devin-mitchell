@@ -20,8 +20,8 @@
 <br />
 
 - 🦙 Lambda alumni (web42)
-- ⌨️ Currently an engineer for Hightop building the bridge from tradfi to defi
-- 👨‍💻 I’m looking to meet more people in the community
+- ⌨️  nvim/kitty user 
+- 👨‍💻 Currently excited about Elixir/Phoenix/Ecto/Absinthe
 - 🥅 2022 Goals: maintain a side project, read more, get outside when I'm not working
 - 🥁 Fun fact: I play drums and produce music 
 
