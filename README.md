@@ -21,7 +21,7 @@
 - 🦙 Lambda/Bloomtech alumni (web42)
 - ⌨️  nvim/kitty user 
 - 👨‍💻 Currently excited about Elixir/Phoenix/Ecto/Absinthe
-- 🥅 2023 Goals: maintain a side project, read more, get outside when I'm not working
+- 🥅 2023 Goals: Learn more design, FE Architecture, and break a bunch of code :)
 - 🥁 Fun fact: I play drums and produce music 
 
 <br />
