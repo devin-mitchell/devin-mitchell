@@ -1,7 +1,6 @@
-<h1 align='center'>Howdy, I'm Devin 👋</h1>
+<h1 align='center'>Hey, I'm Devin</h1>
 
 <h4 style='font-size: 0px' align='center'>ENGINEER || MUSICIAN</h4>
-
 <br />
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,10 +18,10 @@
 
 <br />
 
-- 🦙 Lambda alumni (web42)
+- 🦙 Lambda/Bloomtech alumni (web42)
 - ⌨️  nvim/kitty user 
 - 👨‍💻 Currently excited about Elixir/Phoenix/Ecto/Absinthe
-- 🥅 2022 Goals: maintain a side project, read more, get outside when I'm not working
+- 🥅 2023 Goals: maintain a side project, read more, get outside when I'm not working
 - 🥁 Fun fact: I play drums and produce music 
 
 <br />
