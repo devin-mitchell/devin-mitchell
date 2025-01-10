@@ -26,10 +26,6 @@
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devin-mitchell&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="devin-mitchell" /></p>
-
-<br />
-
 ## Connect with me:
 
 [<img align="left" style="margin-left: 1.5rem" alt="Devin | LinkedIn" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e0c08558d85cb4365c3a865fde306916e58c542e/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
@@ -38,5 +34,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/devin-mitchell100
-[twitter]: https://twitter.com/DevDevin11
-[instagram]: https://www.instagram.com/ivouriesdvn
