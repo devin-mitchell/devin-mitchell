@@ -1,6 +1,6 @@
 <h1 align='center'>Hey, I'm Devin</h1>
 
-<h4 style='font-size: 0px' align='center'>ENGINEER || MUSICIAN</h4>
+<h4 style='font-size: 0px' align='center'>ENGINEER</h4>
 <br />
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,17 +19,14 @@
 <br />
 
 - 🦙 Lambda/Bloomtech alumni (web42)
-- ⌨️  nvim/kitty user 
-- 👨‍💻 Currently excited about Elixir/Phoenix/Ecto/Absinthe
-- 🥅 2023 Goals: Learn more design, FE Architecture, and break a bunch of code :)
-- 🥁 Fun fact: I play drums and produce music 
+- ⌨️ Nvim/kitty user 
+- 👨‍💻 Currently excited about Next.js and Golang
+- 🥅 2025 Goals: Learn more design, FE Architecture, and break a bunch of code :)
+- ✍️ Fun fact: I've been working on blackletter and engrosser script lettering
 
 <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devin-mitchell&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="devin-mitchell" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devin-mitchell&layout=compact)](https://github.com/devin-mitchell/github-readme-stats)
-
 
 <br />
 
